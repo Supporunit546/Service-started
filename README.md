@@ -3,7 +3,7 @@ Dear Customer,
 We appreciate you choosing us. We are pleased to inform you that the $349 USD payment for your Avast Magnus order been received.​
  
 Order Description:
-Transaction ID: 436547879
+Transaction ID: 7686877
 Product: Avast Magnus Core Shield (3 Devices)
 Current Plan: 1-Year Subscription
 Paid:  $349 USD
